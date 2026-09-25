@@ -13,6 +13,11 @@ Coleta → Fusão → Feature Engineering → Anomaly Detection → Machine Lear
 
 O protótipo utiliza dados sintéticos coerentes para demonstração pública. O SUMO é usado no desenvolvimento/validação e não é necessário para executar o aplicativo publicado.
 
+## Execução online
+basta acessar o link:
+https://saev2xai.streamlit.app/
+
+
 ## Execução local
 
 ```bash
