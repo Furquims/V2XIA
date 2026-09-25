@@ -40,7 +40,7 @@ def run_guided_demo(mission_key, mission_config):
     st.info(f"**Demonstração:** {scenario_name}")
 
     # Gera um cenário crítico real do simulador, em vez de números arbitrários.
-    result_demo = generate_scenario(mission_key, scenario_name)
+    result_demo = generate_scenario(scenario_name, mission_key)
 
     for i, (title, description) in enumerate(steps, start=1):
         with placeholder.container():
