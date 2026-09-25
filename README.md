@@ -13,10 +13,6 @@ Coleta → Fusão → Feature Engineering → Anomaly Detection → Machine Lear
 
 O protótipo utiliza dados sintéticos coerentes para demonstração pública. O SUMO é usado no desenvolvimento/validação e não é necessário para executar o aplicativo publicado.
 
-## Execução online
-basta acessar o link:
-https://saev2xai.streamlit.app/
-
 
 ## Execução local
 
@@ -29,7 +25,9 @@ streamlit run app.py
 
 ## Publicação
 
-O projeto foi estruturado para Streamlit Community Cloud. No GitHub, publique o conteúdo deste diretório e selecione `app.py` como arquivo principal.
+O projeto também foi estruturado para Streamlit Community Cloud. Basta acessar o link:
+https://saev2xai.streamlit.app/
+
 
 ## Observação técnica
 
